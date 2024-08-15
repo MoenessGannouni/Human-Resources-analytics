@@ -1,0 +1,15 @@
+.logout-content {
+    display: flex;
+    align-items: center;
+    /* This will vertically align the text and logo */
+    justify-content: center;
+    /* This centers the content horizontally */
+}
+
+.logout-logo {
+    height: 80px;
+    /* Adjust size as needed */
+    width: auto;
+    margin-left: 0px;
+    /* Space between text and logo */
+}
